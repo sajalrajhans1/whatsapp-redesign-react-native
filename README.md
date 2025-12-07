@@ -10,8 +10,10 @@ A minimal WhatsApp redesign built using React Native CLI. The reference was take
 - Clean colors and rounded design
 
 ## Screenshots
-![Screenshot1](./images/ss1.jpg)
-![Screenshot2](./images/ss2.jpg)
+<p align="center">
+  <img src="images/ss1.jpg" width="200" />
+  <img src="images/ss2.jpg" width="200" />
+</p>
 
 ## Tech
 - React Native CLI
